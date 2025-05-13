@@ -1,2 +1,2 @@
 # Electric-vehicle-operation-data
-Real-time operation data of electric vehicles
+During the paper submission stage, we open-source a portion of the vehicle data.
