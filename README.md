@@ -40,7 +40,7 @@ The publicly available dataset used in this study contains the following variabl
 | Vehicle#10     | Electric bus      | LFP              | 505                         | 715956                | 27677                   | 0.1                     |
 
 NCM refers to Nickel Cobalt Manganese lithium-ion batteries, while LFP refers to Lithium Iron Phosphate batteries
-
+Cumulative mileage refers to the total distance traveled by the vehicle within the scope of this dataset.
 
 ## Battery Pack Structure
 
